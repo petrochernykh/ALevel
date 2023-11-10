@@ -8,5 +8,7 @@ namespace ALevel9Lesson9.Repositories.Abstractions
         ShoeEntity GetShoe(string id);
         string AddShoe(Shoe shoe);
         bool DeleteShoe(string id);
+        string[] AddShoes(List<Shoe> shoes);
+        ShoeEntity[] GetShoeByText(string text);
     }
 }

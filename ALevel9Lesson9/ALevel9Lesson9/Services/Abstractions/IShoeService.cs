@@ -8,5 +8,7 @@ namespace ALevel9Lesson9.Services.Abstractions
         Shoe GetShoe(string id);
         string AddShoe(Shoe shoe);
         bool DeleteShoe(string id);
+        string[] AddShoes(List<Shoe> shoes);
+        Shoe[] GetShoeByText(string text);
     }
 }
