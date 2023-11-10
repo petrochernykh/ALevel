@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dgabpWZj9QCU5/11toBS6mg3iHOR5bPDBFAYyvGPSahG16hPFY51M711p1C0WUplGK2BFpT1rhUD1lU4SOk1Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petrc\\source\\repos\\ALevel9Lesson9\\ALevel9Lesson9\\ALevel9Lesson9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petrc\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\petrc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\petrc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\petrc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\petrc\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
